@@ -20,7 +20,7 @@ A simple and interactive To-Do List application built using HTML, CSS, and JavaS
 2. Open `todolist.html` in any browser
 
 ## 🌐 Live Demo
-👉 https://your-username.github.io/todo-list-app/
+👉 https://github.com/shanmugapriya143/todolist
 
 ## 📌 Author
 Shanmugapriya P
